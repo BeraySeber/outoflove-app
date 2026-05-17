@@ -24,9 +24,9 @@
 
 ### Temel Özellikler
 
-| Günlük | Alışkanlıklar | Meditasyon | İlerleme |
-|:-------:|:------:|:----------:|:--------:|
-| <img src="docs/screenshots/journal.png" width="180"/> | <img src="docs/screenshots/habits.png" width="180"/> | <img src="docs/screenshots/meditation.png" width="180"/> | <img src="docs/screenshots/progress.png" width="180"/> |
+| Günlük | Alışkanlıklar | Meditasyon | Aktif Seans | İlerleme |
+|:-------:|:------:|:----------:|:----------:|:--------:|
+| <img src="docs/screenshots/journal.png" width="180"/> | <img src="docs/screenshots/habits.png" width="180"/> | <img src="docs/screenshots/meditation.png" width="180"/> | <img src="docs/screenshots/meditation_session.png" width="180"/> | <img src="docs/screenshots/progress.png" width="180"/> |
 
 ### No Contact Akışı
 
@@ -157,4 +157,4 @@ Kaynak kod paylaşılmamaktadır.
 
 ---
 
-*— [Beray Seber](mailto:berayseber@gmail.com)*
+*[Beray Seber](mailto:berayseber@gmail.com)*
