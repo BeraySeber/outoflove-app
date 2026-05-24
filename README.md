@@ -12,7 +12,7 @@
 > emotional recovery. Built with SwiftUI, SwiftData, and strict 4-layer MVVM 
 > architecture. Features XP system, guided meditation, habit tracking, and a 
 > research-backed No Contact module. ~16K LOC, 67 Swift files. 
-> Senior capstone project @ OSTİM Technical University (May 2026).
+> Final year project @ OSTİM Technical University (May 2026).
 
 ---
 
