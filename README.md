@@ -8,6 +8,12 @@
 
 > Romantik ayrılık sonrası duygusal toparlanmayı destekleyen oyunlaştırılmış bir iOS uygulaması. Günlük tutma, alışkanlık takibi, rehberli meditasyon ve iletişim kontrolü (No Contact) modüllerini tek bir deneyimde bir araya getirir.
 
+> **English Summary:** Out of Love is a gamified iOS app for post-breakup 
+> emotional recovery. Built with SwiftUI, SwiftData, and strict 4-layer MVVM 
+> architecture. Features XP system, guided meditation, habit tracking, and a 
+> research-backed No Contact module. ~16K LOC, 67 Swift files. 
+> Senior capstone project @ OSTİM Technical University (May 2026).
+
 ---
 
 ## 📱 Ekran Görüntüleri
